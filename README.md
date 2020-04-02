@@ -16,3 +16,9 @@ Developers of a free online game 'Heroes of Pymoli' need insight on purchasing d
   
 - **Most Popular Items** 
     ###### _(these will be assigned then listed to be able to isolate)_ 
+  - **Identified and counted the five most popular items by purchase count**
+    - _Item ID_
+    - _Item Name_
+    - _Item Price_
+    - _Purchase Count_
+    - _Total Purchase Value_
